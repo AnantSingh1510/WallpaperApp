@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795907736841",
+    "project_id": "wallpaper-c9e7d",
+    "storage_bucket": "wallpaper-c9e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795907736841:android:64e3b7a28d923ceaf37fd8",
+        "android_client_info": {
+          "package_name": "com.musicapp.wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-Xwv2R-nyk4zwOVzQRIz55XOBCzJFlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
